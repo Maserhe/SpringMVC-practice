@@ -15,6 +15,7 @@
         <module>springmvc04</module>
         <module>springmvc05</module>
         <module>springmvc06</module>
+        <module>springmvc07</module>
     </modules>
 
     <properties>
