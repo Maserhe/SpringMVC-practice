@@ -18,6 +18,7 @@
     <!-- 自动扫描包，让指定包下的注解生效,由IOC容器统一管理 -->
     <context:component-scan base-package="controller"/>
 
+
     <!-- 让Spring MVC不处理静态资源  css, js, mp3 等等-->
     <mvc:default-servlet-handler />
     <!--

@@ -16,6 +16,8 @@
         <module>springmvc05</module>
         <module>springmvc06</module>
         <module>springmvc07</module>
+        <module>springmvc08</module>
+        <module>springmvc09</module>
     </modules>
 
     <properties>
@@ -81,6 +83,9 @@
             <artifactId>fastjson</artifactId>
             <version>1.2.75</version>
         </dependency>
+
+
+
 
     </dependencies>
 

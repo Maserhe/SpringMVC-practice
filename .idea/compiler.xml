@@ -13,7 +13,9 @@
         <module name="springmvc06" />
         <module name="springmvc03" />
         <module name="springmvc04" />
+        <module name="springmvc09" />
         <module name="springmvc07" />
+        <module name="springmvc08" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
